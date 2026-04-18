@@ -1,2 +1,0 @@
-# civica
-demo
